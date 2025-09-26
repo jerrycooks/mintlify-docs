@@ -20,9 +20,9 @@
           {
             "group": "Work",
             "pages": [
-              "Macfarlane",
-              "Writing",
-              "Other"
+              "Research",
+              "Books",
+              "Macfarlane"
             ]
           },
           {
@@ -40,7 +40,7 @@
           "icon": "link"
         },
         {
-          "anchor": "Socials",
+          "anchor": "Follow Me",
           "href": "https://mintlify.com/blog",
           "icon": "circle-user"
         }
