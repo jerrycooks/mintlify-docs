@@ -13,14 +13,16 @@
           {
             "group": "About",
             "pages": [
-              "Education"
+              "Education",
+              "Experience"
             ]
           },
           {
             "group": "Work",
             "pages": [
               "Macfarlane",
-              "Publications"
+              "Publications",
+              "Other"
             ]
           },
           {
@@ -40,7 +42,7 @@
         {
           "anchor": "@jarahxyz",
           "href": "https://mintlify.com/blog",
-          "icon": "user-round-plus"
+          "icon": "user round plus"
         }
       ]
     }
