@@ -40,12 +40,12 @@
         {
           "anchor": "Macfarlane.com",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "link-2"
         },
         {
-          "anchor": "Blog",
+          "anchor": "@jarahxyz",
           "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "icon": "user-round-plus"
         }
       ]
     }
