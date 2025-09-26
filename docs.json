@@ -13,7 +13,6 @@
           {
             "group": "About",
             "pages": [
-              "Jarah Macfarlane",
               "Education"
             ]
           },
@@ -36,7 +35,7 @@
         {
           "anchor": "Macfarlane.com",
           "href": "https://mintlify.com/docs",
-          "icon": "link-2"
+          "icon": "link"
         },
         {
           "anchor": "@jarahxyz",
