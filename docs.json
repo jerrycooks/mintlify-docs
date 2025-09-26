@@ -11,7 +11,7 @@
   "navigation": {
         "groups": [
           {
-            "group": "Getting started",
+            "group": "About",
             "pages": [
               "index",
               "quickstart",
@@ -19,27 +19,19 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Work",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Media",
             "pages": [
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ],
