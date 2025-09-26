@@ -21,7 +21,7 @@
             "group": "Work",
             "pages": [
               "Macfarlane",
-              "Publications",
+              "Writing",
               "Other"
             ]
           },
@@ -42,7 +42,7 @@
         {
           "anchor": "@jarahxyz",
           "href": "https://mintlify.com/blog",
-          "icon": "user round plus"
+          "icon": "circle-user"
         }
       ]
     }
