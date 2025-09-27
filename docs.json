@@ -21,7 +21,15 @@
             "group": "Work",
             "pages": [
               "Macfarlane",
-              "Writing",
+              {
+      "group": "Writing",
+      "icon": "pencil",
+      "expanded": false,
+      "pages": [
+        "Research Papers",
+        "Books"
+      ]
+        },
               "Other"
             ]
           },
