@@ -26,10 +26,10 @@
       "expanded": false,
       "pages": [
         "Research Papers",
-        "Books"
+        "Books",
+        "More"
       ]
-        },
-              "Other"
+        }
             ]
           },
           {
@@ -47,7 +47,7 @@
           "icon": "link"
         },
         {
-          "anchor": "Follow Me",
+          "anchor": "Social Media",
           "href": "https://mintlify.com/blog",
           "icon": "circle-user"
         }
