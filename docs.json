@@ -4,8 +4,8 @@
   "name": "JDM",
   "colors": {
     "primary": "#002768",
-    "light": "#325286",
-    "dark": "#001F53"
+    "light": "#000000",
+    "dark": "#FFFFFF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -23,7 +23,6 @@
               "Macfarlane",
               {
       "group": "Writing",
-      "icon": "pencil",
       "expanded": false,
       "pages": [
         "Research Papers",
