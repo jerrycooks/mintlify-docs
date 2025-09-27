@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "JDM",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#002768",
+    "light": "#325286",
+    "dark": "#001F53"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -20,9 +20,9 @@
           {
             "group": "Work",
             "pages": [
-              "Research",
-              "Books",
-              "Macfarlane"
+              "Macfarlane",
+              "Writing",
+              "Other"
             ]
           },
           {
